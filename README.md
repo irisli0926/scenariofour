@@ -1,6 +1,4 @@
-### Hi, I'm Iris
-
-I build small, honest products with AI, and I keep notes on what each one teaches me.
+### Hellooooo, I’m Iris. 
 
 - **[Homepage](https://irisli.dev/)**: my work, notes and updates.
 - **[RIRRI'S](https://world.irisli.dev/)**: the same work, stocked in a tiny 3D convenience store on a rainy evening. Pick something up to read its case study.
